@@ -12,6 +12,8 @@ Software: <br>
 X11 <br>
 WM: Fluxbox <br>
 DM: XDM <br>
+Terminal: Kitty <br>
+Compositing: Picom <br>
 Panel: FBPanel <br>
 File Manager: Caja <br>
 Email: Claws Mail <br>
