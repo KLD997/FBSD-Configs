@@ -1,4 +1,5 @@
 # FBSD-Configs
+<h3>Links to the different configs and associated blog post</h3>
 Hardware: <br>
 Lenovo T520i - Core i3-2310M @ 2.10 GHz <br>
 4 GB RAM <br>
