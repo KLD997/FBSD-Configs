@@ -9,8 +9,9 @@
 
 <h2>Software:</h2>
 <p>Graphics: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xorg.conf.d/">X11</a></p>
-<p>WM: Fluxbox </p>
 <p>DM: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xdm/">XDM</a></p> 
+<p>WM: Fluxbox </p>
+<p>Wallpaper: feh </p>
 <p>Terminal: Kitty </p>
 <p>Compositing: Picom </p>
 <p>Panel: FBPanel </p>
