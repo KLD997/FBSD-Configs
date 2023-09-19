@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Unknown why, but does not execute with `sleep 0` inclusion
+sleep 0 && pkill xclock
