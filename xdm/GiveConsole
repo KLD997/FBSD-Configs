@@ -1,0 +1,5 @@
+#!/bin/sh
+
+chown $USER /dev/console
+/usr/local/etc/X11/xdm/scripts/killapps
+
