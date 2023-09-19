@@ -11,10 +11,10 @@
 <p>Graphics: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xorg.conf.d/">X11</a></p>
 <p>DM: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xdm/">XDM</a></p> 
 <p>WM: Fluxbox </p>
-<p>Wallpaper: feh </p>
 <p>Terminal: Kitty </p>
 <p>Compositing: Picom </p>
 <p>Panel: FBPanel </p>
+<p>Wallpaper: feh </p>
 <p>File Manager: Caja </p>
 <p>Email: Claws Mail </p>
 <p>Browser: Midori </p>
