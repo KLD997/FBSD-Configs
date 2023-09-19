@@ -1,0 +1,2 @@
+# Fix insane boot time (40+ seconds) by running ntpdate in background
+ntpdate -u -o 4 pool.ntp.org &
