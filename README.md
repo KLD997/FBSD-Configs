@@ -1,21 +1,22 @@
 # FBSD-Configs
-Hardware:
-Lenovo T520i - Core i3-2310M @ 2.10 GHz
-4 GB RAM
-250 GB SSD
-Integrated Smart Card Reader
-Integrated SD Card Reader
+Hardware: <br>
+Lenovo T520i - Core i3-2310M @ 2.10 GHz <br>
+4 GB RAM <br>
+250 GB SSD <br>
+Integrated Smart Card Reader <br>
+Integrated SD Card Reader <br>
 
-Software:
-- X11 -
-WM: Fluxbox
-DM: XDM
-Panel: FBPanel
-File Manager: Caja
-Email: Claws Mail
-Browser: Midori
-Locking: XScreensaver
-Notifications: xfce4-notifyd // xmessage
-Photo Editing: Gimp
-Video Editing: KdenLive
-Multimedia Playback: mpv / vlc
+Software: <br>
+
+X11 <br>
+WM: Fluxbox <br>
+DM: XDM <br>
+Panel: FBPanel <br>
+File Manager: Caja <br>
+Email: Claws Mail <br>
+Browser: Midori <br>
+Locking: XScreensaver <br>
+Notifications: xfce4-notifyd // xmessage <br>
+Photo Editing: Gimp <br>
+Video Editing: KdenLive <br>
+Multimedia Playback: mpv / vlc <br>
