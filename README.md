@@ -1,13 +1,14 @@
 # FBSD-Configs
 <h3>Links to the different configs and associated blog post</h3>
-<p>Hardware:
-Lenovo T520i - Core i3-2310M @ 2.10 GHz
-4 GB RAM
-250 GB SSD
-Integrated Smart Card Reader
-Integrated SD Card Reader
-</p>
-<h4>Software:</h4>
+<p>Hardware:</p>
+<p>Lenovo T520i - Core i3-2310M @ 2.10 GHz</p>
+<p>4 GB RAM</p>
+<p>250 GB SSD</p>
+<p>Integrated Smart Card Reader</p>
+<p>Integrated SD Card Reader</p>
+
+
+<h3>Software:</h3>
 
 <p>Graphics: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xorg.conf.d/">X11</a></p>
 <p>WM: Fluxbox </p>
