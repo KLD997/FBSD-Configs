@@ -1,0 +1,26 @@
+xlogin.Login.greeting:
+xlogin.Login.unsecureGreeting:
+xlogin.Login.fail:                Failed login attempt.
+xlogin.Login.changePasswdMessage: Change Password.
+xlogin.Login.namePrompt:          Username -
+xlogin.Login.passwdPrompt:        Password -
+xlogin.Login.echoPasswd:          true
+xlogin.Login.background:          #100800
+xlogin.Login.foreground:          #e6d39d
+xlogin.Login.failColor:           #e60000
+xlogin.Login.inpColor:            #100800
+xlogin.Login.promptColor:         #e6d39d
+xlogin.Login.greetColor:          #e6d39d
+xlogin.Login.face:                firasans:size=16:style=Bold
+xlogin.Login.failFace:            firasans:size=16:style=Bold
+xlogin.Login.promptFace:          firasans:size=16:style=normal
+xlogin.Login.greetFace:           firasans:size=16:style=Bold
+xlogin.Login.width:               400
+xlogin.Login.height:              250
+xlogin.Login.x:                   1
+xlogin.Login.y:                   400
+xlogin.Login.sepWidth:            0
+xlogin.Login.innerFramesWidth:    0
+xlogin.Login.frameWidth:          0
+xlogin.frameWidth:                0
+xlogin*borderWidth:               0
