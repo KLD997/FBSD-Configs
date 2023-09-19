@@ -10,16 +10,16 @@ Integrated SD Card Reader <br>
 Software: <br>
 
 <p>Graphics: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xorg.conf.d/">X11</a></p>
-WM: Fluxbox <br>
-DM: XDM <br>
-Terminal: Kitty <br>
-Compositing: Picom <br>
-Panel: FBPanel <br>
-File Manager: Caja <br>
-Email: Claws Mail <br>
-Browser: Midori <br>
-Locking: XScreensaver <br>
-Notifications: xfce4-notifyd // xmessage <br>
-Photo Editing: Gimp <br>
-Video Editing: KdenLive <br>
-Multimedia Playback: mpv / vlc <br>
+<p>WM: Fluxbox </p><br>
+<p>DM: <a href="https://github.com/KLD997/FBSD-Configs/tree/main/xdm/">XDM</a></p> <br>
+<p>Terminal: Kitty </p><br>
+<p>Compositing: Picom </p><br>
+<p>Panel: FBPanel </p><br>
+<p>File Manager: Caja </p><br>
+<p>Email: Claws Mail </p><br>
+<p>Browser: Midori </p><br>
+<p>Locking: XScreensaver </p><br>
+<p>Notifications: xfce4-notifyd // xmessage </p><br>
+<p>Photo Editing: Gimp </p><br>
+<p>Video Editing: KdenLive </p><br>
+<p>Multimedia Playback: mpv / vlc </p><br>
