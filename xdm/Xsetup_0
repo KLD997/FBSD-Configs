@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Set solid background
+# xsetroot -solid black
+
+# Set wallpaper background
+xsetbg -fullscreen /usr/local/etc/X11/xdm/wallpapers/bizen_titled.png
+
+# show time, tweak appearance by editing /usr/local/share/X11/app-defaults/XClock
+xclock -digital -twelve -brief &
