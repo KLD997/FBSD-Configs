@@ -9,7 +9,7 @@ Integrated SD Card Reader <br>
 
 Software: <br>
 
-X11 <br>
+<a href="https://github.com/KLD997/FBSD-Configs/tree/main/xorg.conf.d">X11</a><br>
 WM: Fluxbox <br>
 DM: XDM <br>
 Terminal: Kitty <br>
